@@ -1,0 +1,6 @@
+.freebuff/
+.os-backup/
+dist/
+README.md
+*.sh
+games-pack-list.txt
